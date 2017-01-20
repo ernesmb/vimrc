@@ -13,4 +13,7 @@ map xb hvbx
 " remove line
 map - Vx
 
+" multiply line or duplicate block of text
+map m y']p
+
 
