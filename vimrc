@@ -1,3 +1,18 @@
+""""""""""""
+""SETTINGS""
+""""""""""""
+
+" enable syntax highlighting
+syntax enable
+
+" tabs length
+set tabstop=2
+
+
+""""""""""""
+""MAPPINGS""
+""""""""""""
+
 " copy to last word in line
 map Y y$
 
