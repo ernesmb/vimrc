@@ -2,4 +2,4 @@
 
 Vim shorcuts.
 
-Copy the file to `~/.vimrc`
+Create a symbolic link to this file at `~/.vimrc` to load the configuration at `vim` startup
