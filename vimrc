@@ -6,8 +6,9 @@
 syntax enable
 
 " tabs length
-set tabstop=2
 
+set tabstop=4
+set shiftwidth=4
 
 """"""""""""
 ""MAPPINGS""
